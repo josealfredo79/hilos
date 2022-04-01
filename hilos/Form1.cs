@@ -34,7 +34,7 @@ namespace hilos
 
         private void btnMostrarMsg_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Holaaaaaa Hilos!");
+            MessageBox.Show("Holaaaaaa estudiantes del Tec Hilos!");
         }
 
         private void btnIniciar_Click(object sender, EventArgs e)
